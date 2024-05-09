@@ -1,4 +1,4 @@
-[demo](blog.corner430.top)
+[demo](blog.corner430.top) : blog.corner430.top
 
 ## 1 功能
 
