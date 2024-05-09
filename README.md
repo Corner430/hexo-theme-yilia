@@ -1,4 +1,6 @@
-### 1 功能
+[demo](blog.corner430.top)
+
+## 1 功能
 
 1. TOC目录
 2. 返回顶部
@@ -23,28 +25,27 @@
 16. 添加[加密文章](https://github.com/D0n9X1n/hexo-blog-encrypt)
 17. ~~网易云音乐~~
 
-5. 一些动画
 
-### 2 安装
+## 2 安装
 
 ``` bash
 $ git clone https://github.com/Corner430/hexo-theme-yilia themes/yilia
 ```
 
-### 3 配置
+## 3 配置
 
 修改hexo根目录下的 `_config.yml` ： `theme: yilia`
 
-### 4 更新
+## 4 更新
 
 ``` bash
 cd themes/yilia
 git pull
 ```
 
-### 5 config.yml 示例
+## 5 config.yml 示例
 
-#### 5.1 插件安装
+### 5.1 插件安装
 
 ```shell
 npm install --save hexo-deployer-git
@@ -58,7 +59,7 @@ npm install live2d-widget-model-hijiki
 npm install --save hexo-blog-encrypt
 ```
 
-#### 5.2 blog/_config.yml 示例
+### 5.2 blog/_config.yml 示例
 
 ```yml
 # Hexo Configuration
@@ -213,7 +214,7 @@ live2d:
     show: true
 ```
 
-### 6 文章示例
+## 6 文章示例
 
 ```yml
 ---
